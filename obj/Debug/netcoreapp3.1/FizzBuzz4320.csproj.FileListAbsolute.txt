@@ -1,0 +1,26 @@
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.exe
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.deps.json
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.runtimeconfig.json
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.runtimeconfig.dev.json
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.dll
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.pdb
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.csprojAssemblyReference.cache
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.AssemblyInfoInputs.cache
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.AssemblyInfo.cs
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.csproj.CoreCompileInputs.cache
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.dll
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.pdb
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\FizzBuzz\FizzBuzz\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.genruntimeconfig.cache
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.exe
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.deps.json
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.runtimeconfig.json
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.runtimeconfig.dev.json
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.dll
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\bin\Debug\netcoreapp3.1\FizzBuzz4320.pdb
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.csprojAssemblyReference.cache
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.AssemblyInfoInputs.cache
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.AssemblyInfo.cs
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.csproj.CoreCompileInputs.cache
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.dll
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.pdb
+D:\User\MGSadler\Documents\Mizzou\2020 Classes - Fall\INFOTC 4320\Module 8\FizzBuzz4320\obj\Debug\netcoreapp3.1\FizzBuzz4320.genruntimeconfig.cache
