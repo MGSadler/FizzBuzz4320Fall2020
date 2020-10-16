@@ -6,23 +6,28 @@ namespace FizzBuzz4320
     {
         private static void Main(string[] args)
         {
-            for (int i = 0; i <= 100; i++)
+            for (int i = 1; i <= 100; i++)
             {
-                if (i % 3 == 0 && i % 5 == 0)
-                {
-                    Console.WriteLine("FizzBuzz");
-                }
-                else if (i % 5 == 0)
-                {
-                    Console.WriteLine("Buzz");
-                }
-                else if (i % 3 == 0)
-                {
-                    Console.WriteLine("Fizz");
-                }
-                else
-                    Console.WriteLine(i);
+                fizzBuzzCalc(i);
+                Console.WriteLine(fizzBuzzCalc(i));
             }
+        }
+
+        public static string fizzBuzzCalc(int number)
+        {
+            if (number % 15 == 0)
+            {
+                return "FizzBuzz";
+            }
+            else if (number % 5 == 0)
+            {
+                return "Buzz";
+            }
+            else if (number % 3 == 0)
+            {
+                return "Fizz";
+            }
+            return Convert.ToString(number);
         }
     }
 }
